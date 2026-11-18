@@ -8,10 +8,10 @@
 
 <br>
 
-[![Site](https://img.shields.io/badge/Site-39FF14?style=for-the-badge&logo=googlechrome&logoColor=17191C&labelColor=17191C)](https://seudominio.com.br)
+[![Site](https://img.shields.io/badge/Site-39FF14?style=for-the-badge&logo=googlechrome&logoColor=17191C&labelColor=17191C)](https://studionextscale.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-39FF14?style=for-the-badge&logo=whatsapp&logoColor=17191C&labelColor=17191C)](https://wa.me/5500000000000?text=Ol%C3%A1!%20Vim%20pelo%20GitHub%20da%20NextScale.)
-[![Instagram](https://img.shields.io/badge/Instagram-39FF14?style=for-the-badge&logo=instagram&logoColor=17191C&labelColor=17191C)](https://instagram.com/nextscale)
-[![E-mail](https://img.shields.io/badge/E--mail-39FF14?style=for-the-badge&logo=gmail&logoColor=17191C&labelColor=17191C)](mailto:contato@nextscale.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-39FF14?style=for-the-badge&logo=instagram&logoColor=17191C&labelColor=17191C)](https://instagram.com/studionextscale)
+[![E-mail](https://img.shields.io/badge/E--mail-39FF14?style=for-the-badge&logo=gmail&logoColor=17191C&labelColor=17191C)](studionextscale@gmail.com)
 
 **[Quem somos](#-quem-somos)** · **[Soluções](#-nossas-soluções)** · **[Diferenciais](#-por-que-a-nextscale)** · **[Projetos](#-projetos)** · **[Contato](#-vamos-conversar)**
 
@@ -114,7 +114,7 @@ Envie uma mensagem com estas informações:
 2. **Tipo de serviço**: sistema, site, tráfego pago, ou "ainda não sei".
 3. **Descrição do projeto**: o que você quer resolver ou criar.
 
-Também dá para preencher o formulário em **[seudominio.com.br](https://seudominio.com.br/#contato)**.
+Também dá para preencher o formulário em **[seudominio.com.br](https://studionextscale.com.br/#contato)**.
 
 </details>
 
